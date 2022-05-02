@@ -1,0 +1,24 @@
+{
+  "name": "autojs-scripts",
+  "version": "1.0.0",
+  "description": "snipe food for Shanghai 2022",
+  "main": "hema-autojs2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishida83/autojs-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishida83/autojs-scripts/issues"
+  },
+  "homepage": "https://github.com/ishida83/autojs-scripts#readme",
+  "devDependencies": {
+    "@autojs/types-pro9": "^9.0.0",
+    "autojs-dev": "^0.7.1"
+  }
+}
